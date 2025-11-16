@@ -49,6 +49,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact 📧
 For any questions or feedback, feel free to contact me:
 
-- **Email:** dandykurniawan180@gmail.com
-- **LinkedIn:** [Dandi Kurniawan](http://www.linkedin.com/in/dandi-kurniawan)
+- **Email:** farrelmuhammad182@gmail.com
+- **LinkedIn:** [Farrel Muhammad](https://www.linkedin.com/in/farrel-muhammad-8a954725b)
 ---
